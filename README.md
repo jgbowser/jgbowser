@@ -48,6 +48,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp
 </div>
 
+---
+
+### :chart_with_upwards_trend: My Stats :
+  ![jgbowser's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgbowser&count_private=true)<br/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgbowser&layout=compact)](https://github.com/jgbowser/github-readme-stats)
 
 <!--
 **jgbowser/jgbowser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
