@@ -2,8 +2,8 @@
   <img src="https://media.giphy.com/media/PEG26dtbtF10k/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <h3>Hi there ✌️</h3>
-  <h3>I'm John Bowser</h2>
+  <p>Hi there ✌️</p>
+  <p>I'm John Bowser</p>
   <p>I usually just go by "Bowser" though</p>
   <div id="badges">
     <a href="https://www.linkedin.com/in/john-g-bowser">
