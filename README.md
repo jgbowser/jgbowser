@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/PEG26dtbtF10k/giphy.gif" width="100"/>
   <h3>Hi there ✌️</h1>
   <h3>I'm John Bowser</h2>
