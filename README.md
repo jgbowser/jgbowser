@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PEG26dtbtF10k/giphy.gif" width="100"/>
-  <p stlye={{font-size: 1.5rem;}}>Hi there ✌️</p>
+</div>
+<div align="center">
+  <h3>Hi there ✌️</h3>
   <h3>I'm John Bowser</h2>
   <p>I usually just go by "Bowser" though</p>
   <div id="badges">
