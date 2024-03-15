@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 - ♾️ Mid-Level, Full Stack Developer @ <a href="iinteractive.com">infinity interactive</a>
-- :mountain: Located in Salt Lake City, Utah...currently
+- :mountain: Located in Indianapolis, IN...currently
 - :zap: Interested in contributing to tools that make developer's lives easier
 - :microscope: Lover of meticulous hobbies (Gundam Models, Landscape Photography)
 - :open_book: Always learning
