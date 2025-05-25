@@ -9,6 +9,9 @@
     <a href="https://www.linkedin.com/in/john-g-bowser">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
+    <a href="https://johnbowser.dev">
+      <img src="https://img.shields.io/badge/-Personal%20Website-brightgreen?style=for-the-badge" alt="Personal Website"/>
+    </a>
   </div>
   <div>
     <img src="https://komarev.com/ghpvc/?username=jgbowser&style=flat-square&color=blue" alt=""/>
