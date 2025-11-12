@@ -21,7 +21,7 @@
 ---
 
 ### :man_technologist: About Me :
-- ♾️ Mid-Level, Full Stack Developer @ <a href="iinteractive.com">infinity interactive</a>
+- ♾️ Mid-Level, Full Stack Developer @ [infinity interactive](https://iinteractive.com)
 - :mountain: Located in Indianapolis, IN...currently
 - :zap: Interested in contributing to tools that make developer's lives easier
 - :microscope: Lover of meticulous hobbies (Gundam Models, Landscape Photography)
